@@ -1,2 +1,2 @@
-Turn the imag of porous media into a 0-1 matrix
+Turn the porous media image into a 0-1 matrix
 
